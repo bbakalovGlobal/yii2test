@@ -1,4 +1,8 @@
-To access the module, you need to add this to your application configuration:
+Configuration
+-------------
+
+* Add current module to the modules folder
+* Add this part of code to your application configuration:
 
 ```php
 <?php
